@@ -12,14 +12,7 @@ drop the db. No more old data.
 create the db. An empty file.
 
 `db:migrate`
-create all the tables :
--
--
--
--
--
--
--
+create all the tables 
 
 `db:seed`
 use Faker gem to create fake data in the db.
